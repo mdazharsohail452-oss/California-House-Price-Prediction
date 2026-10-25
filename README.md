@@ -72,7 +72,7 @@ california-house-price-prediction/
 ├── house_model.joblib        # Saved trained model
 ├── house_features.joblib     # Saved feature metadata
 ├── requirements.txt          # Python dependencies
-├── .gitignore                # Files excluded from Git
+├── explore.py
 └── README.md                 # Project documentation
 ```
 
